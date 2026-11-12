@@ -1,0 +1,6 @@
+{
+  "name": "Study Monitor",
+  "description": "A cross-platform study monitoring application that detects inactivity and helps students stay focused.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

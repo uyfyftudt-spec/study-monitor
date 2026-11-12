@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مراقب الدراسة</string>
+    <string name="accessibility_service_description">تُستخدم لاكتشاف نشاط المستخدم عبر النظام لتتبع فترات الخمول أثناء جلسات الدراسة بدقة.</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_habits">عاداتي</string>
+    <string name="tab_statistics">الإحصائيات</string>
+    <string name="tab_forest">الغابة</string>
+    <string name="tab_settings">الإعدادات</string>
+
+    <!-- Habits Tab -->
+    <string name="habits_title">عاداتي</string>
+    <string name="habits_coming_soon">قريباً</string>
+    <string name="habits_coming_soon_desc">ميزة تتبع العادات قادمة قريباً لمساعدتك في بناء روتين دراسي متوازن ومنتج.</string>
+
+    <!-- Common Actions & Statuses -->
+    <string name="action_start_session">بدء الجلسة</string>
+    <string name="action_pause_session">إيقاف مؤقت</string>
+    <string name="action_resume_session">استئناف</string>
+    <string name="action_end_session">إنهاء الجلسة</string>
+    <string name="action_awake">أنا مستيقظ</string>
+    <string name="action_reset">إعادة تعيين</string>
+    <string name="action_cancel">إلغاء</string>
+
+    <!-- Dashboard -->
+    <string name="status_studying">جلسة دراسة جارية</string>
+    <string name="status_paused">متوقف مؤقتاً</string>
+    <string name="status_inactive">خامل</string>
+    <string name="status_idle">جاهز للدراسة</string>
+    <string name="status_completed">اكتملت الجلسة</string>
+    <string name="todays_summary">ملخص اليوم</string>
+    <string name="active_study_time">وقت الدراسة الفعلية</string>
+    <string name="inactive_time">وقت الخمول</string>
+    <string name="alert_count">التنبيهات</string>
+    <string name="recent_sessions">الجلسات الأخيرة</string>
+    <string name="no_sessions_today">لم يتم تسجيل أي جلسات دراسية اليوم حتى الآن.</string>
+
+    <!-- Forest -->
+    <string name="forest_title">الغابة الشخصية</string>
+    <string name="forest_current_tree">الشجرة الحالية</string>
+    <string name="forest_completed_trees">الأشجار المكتملة</string>
+    <string name="forest_total_time">إجمالي وقت الدراسة</string>
+    <string name="forest_reset_dialog_title">إعادة تعيين بيانات الغابة</string>
+    <string name="forest_reset_dialog_message">هل أنت متأكد من رغبتك في حذف جميع الأشجار المكتملة وإعادة تعيين الغابة؟ لا يمكن التراجع عن هذا الإجراء.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_inactivity_threshold">مهلة الخمول</string>
+    <string name="settings_auto_wakeup">منبه الاستيقاظ التلقائي</string>
+    <string name="settings_exam_date">تاريخ الامتحان</string>
+    <string name="settings_alarm_sound">صوت التنبيه المخصص</string>
+    <string name="settings_system_monitoring">مراقبة نشاط النظام</string>
+
+    <!-- Statistics -->
+    <string name="statistics_title">الإحصائيات التفصيلية</string>
+</resources>

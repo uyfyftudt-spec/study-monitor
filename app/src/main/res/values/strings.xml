@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Monitor</string>
+    <string name="accessibility_service_description">Used to detect user activity across the system to accurately track study session inactivity.</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_habits">Habits</string>
+    <string name="tab_statistics">Statistics</string>
+    <string name="tab_forest">Forest</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Habits Tab -->
+    <string name="habits_title">My Habits</string>
+    <string name="habits_coming_soon">Coming Soon</string>
+    <string name="habits_coming_soon_desc">The habits tracking feature is coming soon to help you build and maintain a productive study routine.</string>
+
+    <!-- Common Actions & Statuses -->
+    <string name="action_start_session">Start Session</string>
+    <string name="action_pause_session">Pause</string>
+    <string name="action_resume_session">Resume</string>
+    <string name="action_end_session">End Session</string>
+    <string name="action_awake">I\'m Awake</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Dashboard -->
+    <string name="status_studying">Studying</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="status_idle">Ready to Study</string>
+    <string name="status_completed">Completed</string>
+    <string name="todays_summary">Today\'s Summary</string>
+    <string name="active_study_time">Active Study</string>
+    <string name="inactive_time">Inactive Time</string>
+    <string name="alert_count">Alerts</string>
+    <string name="recent_sessions">Recent Sessions</string>
+    <string name="no_sessions_today">No study sessions recorded yet today.</string>
+
+    <!-- Forest -->
+    <string name="forest_title">Personal Forest</string>
+    <string name="forest_current_tree">Current Tree</string>
+    <string name="forest_completed_trees">Completed Trees</string>
+    <string name="forest_total_time">Total Study Time</string>
+    <string name="forest_reset_dialog_title">Reset Forest Data</string>
+    <string name="forest_reset_dialog_message">Are you sure you want to clear all completed trees and reset your forest? This action cannot be undone.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_inactivity_threshold">Inactivity Threshold</string>
+    <string name="settings_auto_wakeup">Auto Wake-Up Monitor</string>
+    <string name="settings_exam_date">Exam Date</string>
+    <string name="settings_alarm_sound">Custom Alarm Sound</string>
+    <string name="settings_system_monitoring">System Activity Monitoring</string>
+
+    <!-- Statistics -->
+    <string name="statistics_title">Detailed Statistics</string>
+</resources>
